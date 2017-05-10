@@ -140,3 +140,12 @@ The API should return the following JSON response on success:
 }
 Please propose JSON responses for any errors that might occur.
 
+
+
+How to URL API?
+1) http://localhost:8000/api/create_friend
+2) http://localhost:8000/api/retrieve/
+3) http://localhost:8000/api/retrieve_common_friends/
+4) http://localhost:8000/api/subscribed_updates/
+5) http://localhost:8000/api/blocked_updates/
+6) http://localhost:8000/api/retrieve_receive_updates/
