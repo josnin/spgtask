@@ -142,10 +142,17 @@ Please propose JSON responses for any errors that might occur.
 
 
 
-How to URL API?
-1) http://localhost:8000/api/create_friend
-2) http://localhost:8000/api/retrieve/
-3) http://localhost:8000/api/retrieve_common_friends/
-4) http://localhost:8000/api/subscribed_updates/
-5) http://localhost:8000/api/blocked_updates/
-6) http://localhost:8000/api/retrieve_receive_updates/
+How to Use the API?
+
+1) Manually create all the users/email need to work on the FriendsManagement API
+
+![image](https://cloud.githubusercontent.com/assets/3206118/25900608/9573d5f0-35c6-11e7-8206-ad19cfb6cbb0.png)
+
+2) List of API
+
+  1 - http://localhost:8000/api/create_friend
+  2 - http://localhost:8000/api/retrieve/
+  3 - http://localhost:8000/api/retrieve_common_friends/
+  4 - http://localhost:8000/api/subscribed_updates/
+  5 - http://localhost:8000/api/blocked_updates/
+  6 - http://localhost:8000/api/retrieve_receive_updates/
